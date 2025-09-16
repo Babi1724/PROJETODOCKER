@@ -71,7 +71,7 @@ services:
     depends_on:
       - mysql
 
-        mongo:
+  mongo:
     image: mongo:6.0
     container_name: mongo_db
     restart: always
