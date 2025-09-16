@@ -1,6 +1,6 @@
-./mysql_data/
-./mongo_data/
-mysql_data/mysql.sock
-
-mysql_data/
-mongo_data/
+./node_modules
+./.next
+node_modules
+.next
+/node_modules
+/.next
